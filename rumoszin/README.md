@@ -11,7 +11,7 @@
 | Algorithm | [백준 1167 : 트리의 지름](https://www.acmicpc.net/problem/1167)           |
 | Algorithm | [백준 13460 : 구슬 탈출 2](https://www.acmicpc.net/problem/13460)         |
 
-#### Week 08 - Two Pointer (24.05.20)
+#### Week 07 - Two Pointer (24.05.20)
 
 | 유형          | 제목                                                                    | 풀이 |
 | ------------- | ----------------------------------------------------------------------- | :--: |
