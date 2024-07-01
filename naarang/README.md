@@ -1,3 +1,16 @@
+#### Week 13 - Minimum Spanning Tree (24.06.24)
+
+| 유형 | 제목                                                                        | 풀이 |
+| ---- | --------------------------------------------------------------------------- | :--: |
+| MST  | [백준 1197 : 최소 스패닝 트리](https://www.acmicpc.net/problem/1197)        |
+| MST  | [백준 1647 : 도시 분할 계획](https://www.acmicpc.net/problem/1647)          |
+| MST  | [백준 9372 : 상근이의 여행](https://www.acmicpc.net/problem/9372)           |
+| MST  | [백준 4386 : 별자리 만들기](https://www.acmicpc.net/problem/4386)           |
+| MST  | [백준 6497 : 전력난](https://www.acmicpc.net/problem/6497)                  |
+| MST  | [백준 1922 : 네트워크 연결](https://www.acmicpc.net/problem/1644)           |
+| MST  | [백준 5014 : 스타트링크](https://www.acmicpc.net/problem/5014)              |
+| MST  | [백준 18352 : 특정 거리의 도시 찾기](https://www.acmicpc.net/problem/18352) |
+
 #### Week 12 - 완전 탐색 (24.06.11)
 
 | 유형       | 제목                                                                | 풀이 |
