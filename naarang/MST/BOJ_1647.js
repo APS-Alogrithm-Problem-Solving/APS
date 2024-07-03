@@ -13,7 +13,7 @@ let parent = Array.from({ length: V + 1 }, (v, i) => i);
 // 노드가 가리키는 최상위 부모를 찾기
 const getParent = (node) => {
   if (parent[node] === node) return node;
-  return (parent[x] = getParent(parent[node]));
+  return (parent[node] = getParent(parent[node]));
 };
 
 // 두 노드의 부모 노드 중에서 작은 값을 가지는 부모를 기준으로 합치기
@@ -39,13 +39,18 @@ let edges = [];
 input.forEach((value) => edges.push(value.split(" ").map(Number)));
 edges.sort((a, b) => a[2] - b[2]);
 
+let answerCosts = [];
 let answer = 0;
 for (let edge of edges) {
   const [start, end, cost] = edge;
   if (!findParent(start, end)) {
     answer += cost;
+    answerCosts.push(cost);
     unionParent(start, end);
   }
 }
 
+// 다 연결될 수 있으므로 가장 비용이 큰 간선을 제거하기
+let max = Math.max(...answerCosts);
+answer -= max;
 console.log(answer);
