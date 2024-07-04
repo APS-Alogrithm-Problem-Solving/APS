@@ -1,3 +1,16 @@
+#### Week 14 - Backtracking (24.07.01)
+
+| 유형         | 제목                                                                    | 풀이 |
+| ------------ | ----------------------------------------------------------------------- | :--: |
+| Backtracking | [백준 15649 : N과 M (1)](https://www.acmicpc.net/problem/15649)         |
+| Backtracking | [백준 1182 : 부분수열의 합](https://www.acmicpc.net/problem/1182)       |
+| Backtracking | [백준 14888 : 연산자 끼워넣기](https://www.acmicpc.net/problem/14888)   |
+| Backtracking | [백준 16987 : 계란으로 계란치기](https://www.acmicpc.net/problem/16987) |
+| Backtracking | [백준 9663 : N-Queen](https://www.acmicpc.net/problem/9663)             |
+| Backtracking | [백준 2661 : 좋은수열](https://www.acmicpc.net/problem/2661)            |
+| Backtracking | [백준 17136 : 색종이 붙이기](https://www.acmicpc.net/problem/17136)     |
+| Backtracking | [백준 1799 : 비숍](https://www.acmicpc.net/problem/1799)                |
+
 #### Week 13 - Minimum Spanning Tree (24.06.24)
 
 | 유형 | 제목                                                                        | 풀이 |
