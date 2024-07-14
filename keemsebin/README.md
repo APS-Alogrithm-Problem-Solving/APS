@@ -1,29 +1,69 @@
-#### Week 12 - 완전 탐색 (24.06.11)
+#### Week 15 - Graph Traversal (24.07.08)
+
+| 유형         | 제목                                                                    | 풀이 |
+| ------------ | ----------------------------------------------------------------------- | :--: |
+| GraphTraversal | [백준 11725 : 트리의 부모 찾기](https://www.acmicpc.net/problem/11725)         |
+| GraphTraversal | [백준 1260 : DFS와 BFS](https://www.acmicpc.net/problem/1260)       |
+| GraphTraversal | [백준 14940 : 쉬운 최단거리](https://www.acmicpc.net/problem/14940)   |
+| GraphTraversal | [백준 2668 : 숫자 고르기](https://www.acmicpc.net/problem/169266887) |
+| GraphTraversal | [백준 14502 : 연구소](https://www.acmicpc.net/problem/14502)             |
+| GraphTraversal | [백준 2636 : 치즈](https://www.acmicpc.net/problem/2636)            |
+| GraphTraversal | [백준 16932 : 모양 만들기](https://www.acmicpc.net/problem/16932)     |
+| GraphTraversal | [백준 21609 : 상어 중학교](https://www.acmicpc.net/problem/21609)    
+
+
+#### Week 14 - Backtracking (24.07.01)
+
+| 유형         | 제목                                                                    | 풀이 |
+| ------------ | ----------------------------------------------------------------------- | :--: |
+| Backtracking | [백준 15649 : N과 M (1)](https://www.acmicpc.net/problem/15649)         |
+| Backtracking | [백준 1182 : 부분수열의 합](https://www.acmicpc.net/problem/1182)       |
+| Backtracking | [백준 14888 : 연산자 끼워넣기](https://www.acmicpc.net/problem/14888)   |
+| Backtracking | [백준 16987 : 계란으로 계란치기](https://www.acmicpc.net/problem/16987) |
+| Backtracking | [백준 9663 : N-Queen](https://www.acmicpc.net/problem/9663)             |
+| Backtracking | [백준 2661 : 좋은수열](https://www.acmicpc.net/problem/2661)            |
+| Backtracking | [백준 17136 : 색종이 붙이기](https://www.acmicpc.net/problem/17136)     |
+| Backtracking | [백준 1799 : 비숍](https://www.acmicpc.net/problem/1799)                |
+
+#### Week 13 - Minimum Spanning Tree (24.06.24)
+
+| 유형          | 제목                                                                    | 풀이 |
+| ------------- | ----------------------------------------------------------------------- | :--: |
+| MST | [백준 1197 : 최소 스패닝 트리](https://www.acmicpc.net/problem/1197)         | [🚀](https://github.com/APS-Alogrithm-Problem-Solving/APS/blob/main/keemsebin/MST/BOJ_1197.js)  |
+| MST | [백준 1647 : 도시 분할 계획](https://www.acmicpc.net/problem/1647)        | [🚀](https://github.com/APS-Alogrithm-Problem-Solving/APS/blob/main/keemsebin/MST/BOJ_1647.js)  |
+| MST | [백준 9372 : 상근이의 여행](https://www.acmicpc.net/problem/9372)           | [🚀](https://github.com/APS-Alogrithm-Problem-Solving/APS/blob/main/keemsebin/MST/BOJ_9372.js)  |
+| MST | [백준 4386 : 별자리 만들기](https://www.acmicpc.net/problem/4386)           |
+| MST | [백준 6497 : 전력난](https://www.acmicpc.net/problem/6497) |
+| MST | [백준 1922 : 네트워크 연결](https://www.acmicpc.net/problem/1644)       | [🚀](https://github.com/APS-Alogrithm-Problem-Solving/APS/blob/main/keemsebin/MST/BOJ_1922.js)  |
+| MST | [백준 5014 : 스타트링크](https://www.acmicpc.net/problem/5014)           | [🚀](https://github.com/APS-Alogrithm-Problem-Solving/APS/blob/main/keemsebin/MST/BOJ_5013.js)  |
+| MST | [백준 18352 : 특정 거리의 도시 찾기](https://www.acmicpc.net/problem/18352)       | [🚀](https://github.com/APS-Alogrithm-Problem-Solving/APS/blob/main/keemsebin/MST/BOJ_18352.js)  |
+
+#### Week 12 - 완전 탐색 (24.06.17)
 
 | 유형   | 제목                                                                 | 풀이 |
 | ------ | -------------------------------------------------------------------- | :--: |
-| BruteForce | [백준 2503 : 숫자 야구](https://www.acmicpc.net/problem/2503)           |
-| BruteForce | [백준 17626 : Four Squares](https://www.acmicpc.net/problem/17626)       |
-| BruteForce | [백준 10971 : 외판원 순회 2](https://www.acmicpc.net/problem/10971)      |
+| BruteForce | [백준 2503 : 숫자 야구](https://www.acmicpc.net/problem/2503)           | [🚀](https://github.com/APS-Alogrithm-Problem-Solving/APS/blob/main/keemsebin/BruteForce/BOJ_2503.js)  |
+| BruteForce | [백준 17626 : Four Squares](https://www.acmicpc.net/problem/17626)       | [🚀](https://github.com/APS-Alogrithm-Problem-Solving/APS/blob/main/keemsebin/BruteForce/BOJ_17626.js)  |
+| BruteForce | [백준 10971 : 외판원 순회 2](https://www.acmicpc.net/problem/10971)      | [🚀](https://github.com/APS-Alogrithm-Problem-Solving/APS/blob/main/keemsebin/BruteForce/BOJ_10971.js)  |
 | BruteForce | [백준 15661 : 링크와 스타트](https://www.acmicpc.net/problem/15661) |
-| BruteForce | [백준 12919 : A와 B 2](https://www.acmicpc.net/problem/12919)             |
-| BruteForce | [백준 15686 : 치킨배달](https://www.acmicpc.net/problem/15686)           |
+| BruteForce | [백준 12919 : A와 B 2](https://www.acmicpc.net/problem/12919)             | [🚀](https://github.com/APS-Alogrithm-Problem-Solving/APS/blob/main/keemsebin/BruteForce/BOJ_12919.js)  |
+| BruteForce | [백준 15686 : 치킨배달](https://www.acmicpc.net/problem/15686)           | [🚀](https://github.com/APS-Alogrithm-Problem-Solving/APS/blob/main/keemsebin/BruteForce/BOJ_15686.js)  |
 | BruteForce | [백준 14500 : 테트로미노](https://www.acmicpc.net/problem/14500)   |
-| BruteForce | [백준 16637 : 괄호 추가하기](https://www.acmicpc.net/problem/16637)     |
+| BruteForce | [백준 16637 : 괄호 추가하기](https://www.acmicpc.net/problem/16637)     | [🚀](https://github.com/APS-Alogrithm-Problem-Solving/APS/blob/main/keemsebin/BruteForce/BOJ_16637.js)  |
 
 
-#### Week 11 - 문자열 (24.06.11)
+#### Week 11 - 문자열 (24.06.10)
 
 | 유형   | 제목                                                                 | 풀이 |
 | ------ | -------------------------------------------------------------------- | :--: |
-| String | [백준 1764 : 듣보잡](https://www.acmicpc.net/problem/1764)           |
+| String | [백준 1764 : 듣보잡](https://www.acmicpc.net/problem/1764)           | [🚀](https://github.com/APS-Alogrithm-Problem-Solving/APS/blob/main/keemsebin/String/BOJ_1764.js)  |
 | String | [백준 20291 : 파일정리](https://www.acmicpc.net/problem/20291)       |
-| String | [백준 3613 : Java vs C++](https://www.acmicpc.net/problem/3613)      |
-| String | [백준 19583 : 싸이버개강총회](https://www.acmicpc.net/problem/19583) |
-| String | [백준 3107 : IPv6](https://www.acmicpc.net/problem/3107)             |
-| String | [백준 17609 : 회문](https://www.acmicpc.net/problem/17609)           |
-| String | [백준 20432 : 문자열 게임2](https://www.acmicpc.net/problem/20432)   |
-| String | [백준 20210 : 파일탐색기](https://www.acmicpc.net/problem/20210)     |
+| String | [백준 3613 : Java vs C++](https://www.acmicpc.net/problem/3613)      | [🚀](https://github.com/APS-Alogrithm-Problem-Solving/APS/blob/main/keemsebin/String/BOJ_3613.js)  |
+| String | [백준 19583 : 싸이버개강총회](https://www.acmicpc.net/problem/19583) | [🚀](https://github.com/APS-Alogrithm-Problem-Solving/APS/blob/main/keemsebin/String/BOJ_19583.js)  |
+| String | [백준 3107 : IPv6](https://www.acmicpc.net/problem/3107)             | [🚀](https://github.com/APS-Alogrithm-Problem-Solving/APS/blob/main/keemsebin/String/BOJ_3107.js)  |
+| String | [백준 17609 : 회문](https://www.acmicpc.net/problem/17609)           | [🚀](https://github.com/APS-Alogrithm-Problem-Solving/APS/blob/main/keemsebin/String/BOJ_17609.js)  |
+| String | [백준 20432 : 문자열 게임2](https://www.acmicpc.net/problem/20432)   | [🚀](https://github.com/APS-Alogrithm-Problem-Solving/APS/blob/main/keemsebin/String/BOJ_20432.js)  |
+| String | [백준 20210 : 파일탐색기](https://www.acmicpc.net/problem/20210)     | [🚀](https://github.com/APS-Alogrithm-Problem-Solving/APS/blob/main/keemsebin/String/BOJ_20210.js)  |
 
 
 #### Week 10 - 시뮬레이션 (24.06.03)
