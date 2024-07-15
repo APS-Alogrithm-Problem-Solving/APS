@@ -89,7 +89,58 @@
 | Two Pointer | [백준 20366 : 같이 눈사람 만들래?](https://www.acmicpc.net/problem/20366)           |
 | Two Pointer | [백준 22862 : 가장 긴 짝수 연속한 부분 수열 (large)](https://www.acmicpc.net/problem/22862)       |
 
-#### Week 14 - Minimum Spanning Tree (24.06.24)
+#### Week 09 - 누적합 (24.05.27)
+| 유형   | 제목                                                                 | 풀이 |
+| ------ | ------------------------------------------------------------------------------------------------------------------- | :--: |
+| PrefixSum | [백준 14929 : 귀찮아 (SIB)](https://www.acmicpc.net/problem/14929)                                                  | |
+| PrefixSum | [백준 2167 : 2차원 배열의 합](https://www.acmicpc.net/problem/2167)                                                 |  |
+| PrefixSum | [백준 20438 : 출석체크](https://www.acmicpc.net/problem/20438)                                                      |   |
+| PrefixSum | [백준 21318 : 피아노 체조](https://www.acmicpc.net/problem/21318)                                                   |  |
+| PrefixSum | [백준 1749 : 점수따먹기](https://www.acmicpc.net/problem/1749)                                                      |
+| PrefixSum | [백준 20440 : 🎵니가 싫어 싫어 너무 싫어 싫어 오지 마 내게 찝쩍대지마🎵 - 1](https://www.acmicpc.net/problem/20440) |  |
+| PrefixSum | [백준 21757 : 나누기](https://www.acmicpc.net/problem/21757)                                                        |   |
+| PrefixSum | [백준 20543 : 폭탄 던지는 태영이](https://www.acmicpc.net/problem/20543)                                            |
+
+#### Week 10 - 시뮬레이션 (24.06.03)
+
+| 유형       | 제목                                                                         | 풀이 |
+| ---------- | ---------------------------------------------------------------------------- | :--: |
+| Simulation | [백준 20436 : ZOAC 3](https://www.acmicpc.net/problem/20436)                 |  |
+| Simulation | [백준 5212 : 지구 온난화](https://www.acmicpc.net/problem/5212)              | |
+| Simulation | [백준 1713 : 후보 추천하기](https://www.acmicpc.net/problem/1713)            |
+| Simulation | [백준 14891 : 톱니바퀴](https://www.acmicpc.net/problem/14891)               |  |
+| Simulation | [백준 16234 : 인구이동](https://www.acmicpc.net/problem/16234)               | |
+| Simulation | [백준 21610 : 마법사 상어와 비바라기](https://www.acmicpc.net/problem/21610) |
+| Simulation | [백준 17144 : 미세먼지 안녕!](https://www.acmicpc.net/problem/17144)     |  |
+| Simulation | [백준 15685 : 드래곤 커브](https://www.acmicpc.net/problem/15685)    | |
+
+#### Week 11 - 문자열 (24.06.10)
+
+| 유형   | 제목                                                                 | 풀이 |
+| ------ | -------------------------------------------------------------------- | :--: |
+| String | [백준 1764 : 듣보잡](https://www.acmicpc.net/problem/1764)           |  |
+| String | [백준 20291 : 파일정리](https://www.acmicpc.net/problem/20291)       |
+| String | [백준 3613 : Java vs C++](https://www.acmicpc.net/problem/3613)      | |
+| String | [백준 19583 : 싸이버개강총회](https://www.acmicpc.net/problem/19583) |   |
+| String | [백준 3107 : IPv6](https://www.acmicpc.net/problem/3107)             |  |
+| String | [백준 17609 : 회문](https://www.acmicpc.net/problem/17609)           |  |
+| String | [백준 20432 : 문자열 게임2](https://www.acmicpc.net/problem/20432)   |  |
+| String | [백준 20210 : 파일탐색기](https://www.acmicpc.net/problem/20210)     |  |
+
+#### Week 12 - 완전 탐색 (24.06.17)
+
+| 유형   | 제목                                                                 | 풀이 |
+| ------ | -------------------------------------------------------------------- | :--: |
+| BruteForce | [백준 2503 : 숫자 야구](https://www.acmicpc.net/problem/2503)           |  |
+| BruteForce | [백준 17626 : Four Squares](https://www.acmicpc.net/problem/17626)       | |
+| BruteForce | [백준 10971 : 외판원 순회 2](https://www.acmicpc.net/problem/10971)      | |
+| BruteForce | [백준 15661 : 링크와 스타트](https://www.acmicpc.net/problem/15661) |
+| BruteForce | [백준 12919 : A와 B 2](https://www.acmicpc.net/problem/12919)             | |
+| BruteForce | [백준 15686 : 치킨배달](https://www.acmicpc.net/problem/15686)           |  |
+| BruteForce | [백준 14500 : 테트로미노](https://www.acmicpc.net/problem/14500)   |
+| BruteForce | [백준 16637 : 괄호 추가하기](https://www.acmicpc.net/problem/16637)     |  |
+
+#### Week 13 - Minimum Spanning Tree (24.06.24)
 
 | 유형          | 제목                                                                    | 풀이 |
 | ------------- | ----------------------------------------------------------------------- | :--: |
@@ -101,3 +152,16 @@
 | MST | [백준 1922 : 네트워크 연결](https://www.acmicpc.net/problem/1644)       |
 | MST | [백준 5014 : 스타트링크](https://www.acmicpc.net/problem/5014)           |
 | MST | [백준 18352 : 특정 거리의 도시 찾기](https://www.acmicpc.net/problem/18352)       |
+
+#### Week 14 - Backtracking (24.07.01)
+
+| 유형         | 제목                                                                    | 풀이 |
+| ------------ | ----------------------------------------------------------------------- | :--: |
+| Backtracking | [백준 15649 : N과 M (1)](https://www.acmicpc.net/problem/15649)         |
+| Backtracking | [백준 1182 : 부분수열의 합](https://www.acmicpc.net/problem/1182)       |
+| Backtracking | [백준 14888 : 연산자 끼워넣기](https://www.acmicpc.net/problem/14888)   |
+| Backtracking | [백준 16987 : 계란으로 계란치기](https://www.acmicpc.net/problem/16987) |
+| Backtracking | [백준 9663 : N-Queen](https://www.acmicpc.net/problem/9663)             |
+| Backtracking | [백준 2661 : 좋은수열](https://www.acmicpc.net/problem/2661)            |
+| Backtracking | [백준 17136 : 색종이 붙이기](https://www.acmicpc.net/problem/17136)     |
+| Backtracking | [백준 1799 : 비숍](https://www.acmicpc.net/problem/1799)                |
